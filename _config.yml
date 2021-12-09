@@ -18,20 +18,19 @@ title:       "FEMEDIA - Analysis of female represenation in US written online me
 keywords:    "ADA, Quotebank, flatpad, quotes, gender"
 description: "Analysis of female represenation in US written online media"
 source_link: "https://github.com/puentene/nasaflatpad_datastory"
-favicon:     #put a path like: "img/favicon.ico"
-touch_icon:  #put a path like: "img/apple-touch-icon.png"
-google_analytics_key:  (blank to disable)
-
+favicon:     "favicon.ico"
+touch_icon:  "img/apple-touch-icon.png"
+google_analytics_key:  
 
 ### template colors, used site-wide via css ###
 colors:
   black:     	'#111111'
   white:     	'#f8f8f8'
-  lavender:	'#b0aac0'
-  lblue: 	'#c2d4dd'
-  lgreen:	'#ddeedd'
+  lavender:	  '#b0aac0'
+  lblue: 	    '#c2d4dd'
+  lgreen:	    '#ddeedd'
   turquoise:	'#5b9aa0'
-  purple:  	'#622569'
+  purple:  	  '#622569'
 
 kramdown:
   auto_ids:  false
