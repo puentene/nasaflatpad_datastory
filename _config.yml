@@ -25,13 +25,13 @@ google_analytics_key:  (blank to disable)
 
 ### template colors, used site-wide via css ###
 colors:
-  black:     '#111111'
-  white:     '#f8f8f8'
+  black:     	'#111111'
+  white:     	'#f8f8f8'
   lavender:	'#b0aac0'
   lblue: 	'#c2d4dd'
   lgreen:	'#ddeedd'
   turquoise:	'#5b9aa0'
-  purple:  	'#622569
+  purple:  	'#622569'
 
 kramdown:
   auto_ids:  false
