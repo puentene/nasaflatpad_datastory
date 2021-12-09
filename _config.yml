@@ -25,13 +25,14 @@ google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable
 
 ### template colors, used site-wide via css ###
 colors:
-  black:     		'#111111'
-  white:     		'#f8f8f8'
-  dark-byzantium: 	'#542344ff'
-  beau-blue: 		'#bfd1e5ff'
-  mint-cream: 		'#ebf5eeff'
-  desert-sand: 		'#d8bfaaff'
-  gray-web: 		'#808080ff'
+  black:     	'#111111'
+  white:     	'#f8f8f8'
+  lavender:	'#b0aac0'
+  lblue: 	'#c2d4dd'
+  lgreen:	'#ddeedd'
+  turquoise:	'#5b9aa0'
+  purple:  	'#622569'
+
 
 kramdown:
   auto_ids:  false
