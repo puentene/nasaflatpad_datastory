@@ -31,6 +31,7 @@ colors:
   lgreen:	    '#ddeedd'
   turquoise:	'#5b9aa0'
   purple:  	  '#622569'
+  petrole:    '#475862'
 
 kramdown:
   auto_ids:  false
