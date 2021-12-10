@@ -1,7 +1,7 @@
 ---
-title: "Introduction"
-bg: petrole
-color: white
+title: "Statistics"
+bg: white
+color: black
 fa-icon: female
 ---
 
