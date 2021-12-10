@@ -5,9 +5,15 @@ color: black
 fa-icon: female
 ---
 
-#### Introduction
+#### Statistics across the US Media landscape
 
-Women in media have always....
+- Number of quotes investigated
+- Number of different news outlets
+- Number of left/right media
 
-- blabla
-- blabla
+- Number of female quotes
+- Number of female quotes in left/right
+
+- Number of female editors 
+- Number of female quotes in female/male editor quotes
+
